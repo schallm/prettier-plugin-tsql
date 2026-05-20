@@ -1,3 +1,8 @@
+> [!NOTE]
+> **This repository has been archived.** Development has moved to [schallm/prettier-sql](https://github.com/schallm/prettier-sql).
+
+---
+
 # prettier-plugin-tsql
 
 > **Beta** — covers the vast majority of T-SQL; a small number of less-common statements fall back to original source text (see [Pending implementation](#pending-implementation)). Breaking changes possible before 1.0.
@@ -204,3 +209,4 @@ npm test
 ```
 
 See [Getting Started](docs/getting-started.md) for full details.
+
